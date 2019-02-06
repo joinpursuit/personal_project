@@ -2,7 +2,7 @@
 
 [ Wiki ][wiki]
 
-[wiki]: /wiki
+[wiki]: wiki
 
 _TODO_  
 - [ ] readme
