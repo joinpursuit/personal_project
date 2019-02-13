@@ -1,8 +1,5 @@
-# MyApp
+# ThoughtFull
 
-[ Wiki ][wiki]
+[ View the Wiki ][wiki]
 
 [wiki]: ../../wiki
-
-_TODO_  
-- [ ] readme
